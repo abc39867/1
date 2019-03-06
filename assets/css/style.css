@@ -1,0 +1,40 @@
+font-family: 'Dancing Script', cursive;
+font-family: 'Abril Fatface', cursive;
+font-family: 'Source Serif Pro', serif;
+font-family: 'Courgette', cursive;
+
+/* index page styling*/
+header {
+    font-size:50px;
+    font-weight:bold;
+    Font-family:'Source Serif Pro';
+}
+    
+}
+.text {
+    font-size:25px;
+    font-weight:normal;
+    Font-family:"Abril Fatface";
+}
+#def2 {
+    Font-family:"Dancing script";
+    font-weight:bold;
+    font-size:30px;
+}
+#def3 {
+    Font-family:"Courgette";
+}
+#description {
+    Font-family:"Times New Roman";
+    font-weight:bold;
+}
+nav {
+    font-size:30px;
+    text-decoration:none;
+}
+Nav:hover{
+    background-color: aqua;
+    font-family:"Times New Roman";
+    font-color:#000;
+    
+}
